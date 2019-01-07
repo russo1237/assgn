@@ -1,0 +1,15 @@
+requirements for given django project are
+python
+django
+prettytable library(pip install prettytable OR pipenv install for virtual env) 
+
+added tested csv files in csvForTesting folder(tasks/assgn1/csvForTesting)
+
+
+steps to run>>>
+
+
+pipenv install 
+python3 manage.py runsever
+
+
